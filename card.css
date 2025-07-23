@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+    align-content: center;
+    
+}
+
+body{
+background-color: rgb(189, 125, 175);
+}
+.mother{
+    background-color: rgb(113, 161, 136);
+    height: 300px;
+    width: 200px;
+    padding: 40px;
+}
+.logo{
+    padding-left: 40px;
+}
+.photo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: white 5px solid;
+    box-shadow:2px 5px 3px blueviolet ;
+}
+#slogan{
+    padding-bottom: 5px;
+}
+.hospital{
+    font-style: normal;
+    color: rgb(122, 40, 70);
+}
+
